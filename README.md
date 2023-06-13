@@ -3,4 +3,6 @@
 
 I create this repository to share my progress in the 100 days of Swift challenge
 
-- [Day 1](https://github.com/Luizrebelatto/100DaysOfSwift) - variables, simple data types, and string interpolation
+- [Day 1](https://github.com/Luizrebelatto/100DaysOfSwift/tree/master/Day%201) - variables, simple data types, and string interpolation
+- [Day 2](https://github.com/Luizrebelatto/100DaysOfSwift/tree/master/Day%202) - arrays, dictionaries, sets, and enums
+- [Day 3](https://github.com/Luizrebelatto/100DaysOfSwift/tree/master/Day%203) - operators and conditions
